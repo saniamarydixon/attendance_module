@@ -1,0 +1,5 @@
+venv
+attendane.csv
+/dataset/
+__pycache__/
+.env
